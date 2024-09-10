@@ -1,0 +1,25 @@
+Merhaba Kosk Games...
+
+Öncelikle biraz aceleyle yaptım bu projeyi kusura bakmayın.
+Dila Hanıma da bahsettiğim üzere 04.05 - 07.05 tarihleri arasında müsaitliğim pek olmayacağı için bakamayacaktım projeye.
+O yüzden sadece bugün(03.05) bakabildim.
+Bu halini bir görün istedim. Pazartesi(08.05) projeye devam edeceğim. 
+
+
+Neler var:
+- İlk 3 level farklı boydaki gridlerin nasıl gözüktüğüne bakabilmeniz için. 
+- CustomLevel olan bölümde istediğiniz gridi ekleyebilirsiniz.
+- Custom Inspector kullarak istediğimiz ölçülerde grid yaratabilme ekledim. Bu şekilde direk Grid hazırlayabiliyoruz.
+- Kare yada dikdörtgen gridler oluşturabilirsiniz. Çok büyük sayılar girerseniz büyük ihtimal Textler taşar. 
+- Grid oluşturduktan sonra merkeze oturttum, yani gridi ekrana ölçeklendirme veya pozisyonlama eklemedim. Şimdilik elle yapıyoruz bunları.
+- Kutucuğun dolu yada boş olacağı şimdilik tamamen random geliyor, ilerde onu da istersek manuel şekilde girebileceğimiz bir yol ekleyeceğim.
+
+
+Nasıl Oynanıyor:
+
+- Sol mouse butonu ile hücreyi doldurabilirsiniz, sağ mouse butonu ile çarpı ekleyebilirsiniz.
+- 3 canınız var. 3 can bitmeden bütün hücreleri doğru şekilde doldurursanız kazanırsınız. Canınız biterse kaybedersiniz.
+
+Görüşmek üzere, İyi çalışmalar :)
+
+
